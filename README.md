@@ -1,4 +1,4 @@
-# Cursos tomados en Talento Sistemas<img width="60" alt="image" src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e473na2jtws2dg92j4k8549qu03iat014nizce8wg8o&rid=giphy.gif&ct=s">
+# Cursos tomados en Talento Sistemas<img width="100" alt="image" src="https://media2.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=ecf05e47qz2n120vi8d6g14m81230uhzkbl7xdfkium4zs8d&rid=giphy.gif&ct=s">
 
 | Curso | Link al curso |
 | ------------- | -----:|
